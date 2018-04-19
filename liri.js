@@ -6,7 +6,7 @@ var Twitter = require('twitter');
 
 // node-spotify-api npm package
 var Spotify = require('node-spotify-api');
-//var spotify = new Spotify(keys.spotify);
+var spotify = new Spotify(keys.spotify);
 
 // request npm package
 var request = require('request');
