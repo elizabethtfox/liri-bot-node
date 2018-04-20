@@ -7,6 +7,7 @@ Use this CLI app to search Spotify for a song or OMDB for a movie. You can also 
 If you don't want to make any decisions, LIRI can do it for you.
 
 Commands:
+
 Spotify:
 spotify-this-song <insert song name>
 
